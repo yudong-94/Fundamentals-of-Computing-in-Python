@@ -6,3 +6,5 @@ sophisticated programming skills in Python from the ground up and apply these sk
 Specialization concludes with a Capstone exam that allows the students to demonstrate the range of knowledge that they have acquired in the Specialization.”
 
 I completed the whole specialization in June 2016. It is the one of the best online courses I have taken. It led me into the world of Python and Computer Science. 
+
+Link to the Specialization: https://www.coursera.org/specializations/computer-fundamentals 
